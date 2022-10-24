@@ -17,7 +17,6 @@ while True:
 id = data['id']
 username = data['username']
 discriminator = data['discriminator']
-info = [username, id, discriminator]
 verified = data['verified']
 mobile = data['has_mobile']
 status = data['settings']['settings']['status']['status']

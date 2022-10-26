@@ -1,8 +1,7 @@
 # My code sucks, its just a little side project i tried to get on with.
 # Imports
 import json
-#load = input("Enter the path of your user.json here: ")
-load = "C:\\Users\\barte\\Downloads\\package\\account\\user.json"
+load = input("Enter the path of your user.json here: ")
 while True:
     try:
         # Loading the json and checking the file path
